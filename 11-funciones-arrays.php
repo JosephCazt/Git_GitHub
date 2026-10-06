@@ -11,6 +11,8 @@ $numeros = array(1,3,4,5,1,2);
 sort($numeros); // de menor a mayor
 rsort($numeros); //de mayor a menor
 
+// TA TODO CORRECTO
+
 echo "<pre>";
 var_dump($numeros); 
 echo "</pre>";
